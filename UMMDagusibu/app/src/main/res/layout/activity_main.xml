@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="end"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/cari"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:paddingTop="10dp"
+            android:src="@drawable/search"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OBAT YANG DICARI"
+            android:textSize="25sp"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="20dp">
+        <TextView
+            android:id="@+id/cariobat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="20sp"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:paddingTop="50dp"
+        android:paddingStart="50dp"
+        android:paddingLeft="50dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/dapatkan"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/get"/>
+        <ImageView
+            android:id="@+id/simpan"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="80dp"
+            android:src="@drawable/simpan"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:paddingTop="50dp"
+        android:paddingStart="50dp"
+        android:paddingLeft="50dp">
+        <ImageView
+            android:id="@+id/gunakan"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/drinking"/>
+        <ImageView
+            android:id="@+id/buang"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/buang"
+            android:layout_marginLeft="80dp"/>
+    </LinearLayout>
+
+</LinearLayout>

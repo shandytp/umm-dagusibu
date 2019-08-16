@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "nama": "Paracetamol",
+      "caraSimpan": "Paling bagus di simpan dalam suhu ruangan, jauhkan dari cahaya secara langsung dan tempat yang lembap",
+      "caraBuang": {
+        "obatKapsul": "Untuk obat berbentuk kapsul hancurkan obat dan campur dengan air, tanah. kemudian taruh dalam wadah plastik yang tertutup",
+        "obatSirup": "Untuk obat berbentuk cair atau sirup, dapat dibuang langsung ke dalam saluran pembuangan air"
+      },
+      "caraPenggunaan": {
+        "dewasa": "Untuk Dewasa :Tablet Paracetamol 500 mg: 2 tablet 500 mg diminum tiap 4-6 jam.",
+        "anak": "Untuk Anak : Oral, 10-15 mg/kg/ dosis tiap 4-6 jam saat diperlukan; jangan melebihi 5 dosis dalam 24 jam. Total dosis maksimal harian: 75 mg/kg/hari tidak melebihi 3750 mg/hari"
+      },
+      "apotek": [
+        {
+          "nama": "Apotek K-24 SOEHAT",
+          "latitude": "-7.9392953",
+          "longitude": "112.6299399"
+        }
+      ]
+    },
+    {
+      "nama": "Aspirin",
+      "caraSimpan": "Simpan obat pada suhu ruangan jauh dari cahaya dan kelembaban. Jangan simpan di dalam kamar mandi dan membekukan obat. Obat dengan merek yang berbeda-beda mungkin mempunyai cara menyimpan yang berbeda. Periksa kotak produk untuk mencari tahu instruksi bagaimana cara menyimpannya, atau menanyakan apoteker. Jauhi obat dari anak-anak dan binatang peliharaan.",
+      "caraBuang": {
+        "obatKapsul": "Untuk obat berbentuk kapsul hancurkan obat dan campur dengan air, tanah. kemudian taruh dalam wadah plastik yang tertutup",
+        "obatSirup": "Untuk obat berbentuk cair atau sirup, dapat dibuang langsung ke dalam saluran pembuangan air"
+      },
+      "caraPenggunaan": {
+        "dewasa": " Untuk Dewasa :3 g per hari dalam dosis terpisah,325-650 mg oral atau rektal setiap 4 jam seperlunya, tidak melebihi 4 g/hari. ",
+        "anak": "Untuk Anak(2-10 thn) :10-15 mg/kg oral atau rektal (>12 thn)325-650 mg dan  setiap 4-6 jam seperlunya, tidak melebihi 4 g/hari."
+      },
+      "apotek": [
+        {
+          "nama": "Apotek Kimia Farma SOEHAT",
+          "latitude": "-7.9392953",
+          "longitude": "112.6299399"
+        }
+      ]
+    },
+    {
+      "nama": "Antasida",
+      "caraSimpan": "Simpan obat pada suhu ruangan. Hindarkan dari kelembaban dan panas",
+      "caraBuang": {
+        "obatKapsul": "Untuk obat berbentuk kapsul hancurkan obat dan campur dengan air, tanah. kemudian taruh dalam wadah plastik yang tertutup",
+        "obatSirup": "Untuk obat berbentuk cair atau sirup, dapat dibuang langsung ke dalam saluran pembuangan air"
+      },
+      "caraPenggunaan": {
+        "dewasa": "Untuk Dewasa : 1-2 tablet sehari, sebanyak 3-4 kali sehari atau 1-2 sendok takar (5-10 mL) 3-4 kali sehari.",
+        "anak": "Untuk anak  : 1/2-1 tablet, sebanyak 1-2 kali sehari atau 1/2-1 sendok takar (2,5-5 mL), sebanyak 3-4 kali sehari."
+      },
+      "apotek": [
+        {
+          "nama": "Apotek Kimia Farma Kawi",
+          "latitude": "-7.9788858",
+          "longitude": "112.6229227"
+        }
+      ]
+    },
+    {
+      "nama": "Co-Trimoxazole",
+      "caraSimpan": "Disimpan di tempat bersuhu ruangan yang jauh dari sinar dan kelembaban. Untuk mencegah terjadinya kerusakan pada obat, Anda jangan menyimpan obat ini di kamar mandi atau freezer. Mungkin ada merek lain dari obat ini yang memiliki aturan penyimpanan yang berbeda. Perhatikan instruksi penyimpanan pada kemasan produk Anda, atau tanyakan kepada apoteker Anda. Jauhkan obat-obatan dari jangkauan anak-anak dan hewan peliharaan.",
+      "caraBuang": {
+        "obatKapsul": "Untuk obat berbentuk kapsul hancurkan obat dan campur dengan air, tanah. kemudian taruh dalam wadah plastik yang tertutup",
+        "obatSirup": "Untuk obat berbentuk cair atau sirup, dapat dibuang langsung ke dalam saluran pembuangan air"
+      },
+      "caraPenggunaan": {
+        "dewasa": "Untuk Pneumcystis Pneumonia 15-20 mg/kg/ hari secara oral atau IV dalam 3-4 dosis terbagi setiap 6-8 jam dalam durasi 14-21 hari, diikuti dengan terapi penekan kronis.",
+        "anak": "Untuk Otitis Media: Untuk anak usia 2 bulan atau lebih: 4 mg/kg oral setiap 12 jam selama 10 hari"
+      },
+      "apotek": [
+        {
+          "nama": "Apotek Kimia Farma Suprapto",
+          "latitude": "-7.9732393",
+          "longitude": "112.6280292"
+        }
+      ]
+    },
+    {
+      "nama": "Ciprofloxacin",
+      "caraSimpan": "Disimpan pada suhu ruangan (20°C hingga 25°C). Simpan pada tempat yang kering dan hindari dari tempat yang lembap. Jangan simpan di kamar mandi. Jauhkan obat dari jangkauan anak-anak dan hewan peliharaa",
+      "caraBuang": {
+        "obatKapsul": "Untuk obat berbentuk kapsul hancurkan obat dan campur dengan air, tanah. kemudian taruh dalam wadah plastik yang tertutup",
+        "obatSirup": "Untuk obat berbentuk cair atau sirup, dapat dibuang langsung ke dalam saluran pembuangan air"
+      },
+      "caraPenggunaan": {
+        "dewasa": " Dewasa :Untuk Anthrax:400 mg IV setiap 12 jam; durasi terapi selama 60 hari",
+        "anak": "Anak :Untuk Anthrax:0 hingga 15 mg / kg IV (dosis maksimal 400 mg / dosis)"
+        },
+      "apotek": [
+        {
+          "nama": "Apotek Viva Tirto Utomo",
+          "latitude": "-7.9276884",
+          "longitude": "112.5916625"
+        }
+      ]
+    },
+    {
+      "nama": "Dexamethasone",
+      "caraSimpan": "Disimpan di tempat bersuhu ruangan yang jauh dari sinar dan kelembaban. Untuk mencegah terjadinya kerusakan pada obat, Anda jangan menyimpan obat ini di kamar mandi atau freezer. Mungkin ada merek lain dari obat ini yang memiliki aturan penyimpanan yang berbeda. Perhatikan instruksi penyimpanan pada kemasan produk Anda, atau tanyakan kepada apoteker Anda. Jauhkan obat-obatan dari jangkauan anak-anak dan hewan peliharaan.",
+      "caraBuang": {
+        "obatKapsul": "Untuk obat berbentuk kapsul hancurkan obat dan campur dengan air, tanah. kemudian taruh dalam wadah plastik yang tertutup",
+        "obatSirup": "Untuk obat berbentuk cair atau sirup, dapat dibuang langsung ke dalam saluran pembuangan air"
+      },
+      "caraPenggunaan": {
+        "dewasa": "Untuk Acute Mountain Sickness (AMS), Croup, asma, dan anti-inflamasi Oral, infus, dan suntikkan dalam bentuk natrium fosfat: 0,75-9 mg/hari dalam dosis yang terbagi setiap 6-12 jam.",
+        "anak": " Untuk anti-inflamasi:0,08-0,3 mg/kg/hari atau 2,5-5 mg/m2/hari dalam dosis terbagi setiap 6-12 jam."
+        },
+      "apotek": [
+        {
+          "nama": "Apotek Viva MT Haryono",
+          "latitude": "-7.9489831",
+          "longitude": "112.6120055"
+        }
+
+      ]
+    },
+    {
+      "nama": "Ketoconazole",
+      "caraSimpan": "Disimpan di tempat bersuhu ruangan yang jauh dari sinar dan kelembaban. Untuk mencegah terjadinya kerusakan pada obat, Anda jangan menyimpan obat ini di kamar mandi atau freezer. Mungkin ada merek lain dari obat ini yang memiliki aturan penyimpanan yang berbeda. Perhatikan instruksi penyimpanan pada kemasan produk Anda, atau tanyakan kepada apoteker Anda. Jauhkan obat-obatan dari jangkauan anak-anak dan hewan peliharaan.",
+      "caraBuang": {
+        "obatKapsul": "Untuk obat berbentuk kapsul hancurkan obat dan campur dengan air, tanah. kemudian taruh dalam wadah plastik yang tertutup"
+
+      },
+      "caraPenggunaan": {
+        "dewasa": "Untuk Dewasa :200 mg secara Oral sekali sehari",
+        "anak": "Untuk Anak ≥2 tahun: 3.3-6.6 mg/kg secara Oral sekali sehari"
+      },
+        "apotek": [
+          {
+            "nama": "Apotek K-24 Gajayana",
+            "latitude": "-7.9519422",
+            "longitude": "112.6068478"
+          }
+        ]
+      }
+  ]
+}
